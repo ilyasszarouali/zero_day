@@ -1,0 +1,1 @@
+The `uname` command, when run without any options, prints the name of the operating system of the machine. This includes the system name, node (network) name, the release version, the version of the operating system, the machine's architecture, and the processor type. It's a command often used to quickly retrieve basic system information.
